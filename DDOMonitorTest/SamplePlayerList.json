@@ -1,0 +1,4926 @@
+{
+    "Name": "Argonnessen",
+    "Players": [
+        {
+            "Name": "Jadez",
+            "Race": "Aasimar",
+            "Guild": "Synergia",
+            "Gender": "Male",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Favored Soul",
+                    "Level": 18
+                },
+                {
+                    "Name": "Artificer",
+                    "Level": 2
+                },
+                {
+                    "Name": "Epic",
+                    "Level": 10
+                },
+                {
+                    "Name": "Legendary",
+                    "Level": 2
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 0,
+            "InParty": 0,
+            "Location": {
+                "Name": "Sharn - Clifftop Tower District",
+                "Region": "",
+                "IsPublicSpace": 1
+            },
+            "PlayerId": "T6oG/BiY6lEfbcEmHaexyGUbTN3AgRAnKK2ASTm5/7o=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 32
+        },
+        {
+            "Name": "Koas",
+            "Race": "Elf",
+            "Guild": "Ascent",
+            "Gender": "Female",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Alchemist",
+                    "Level": 9
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 0,
+            "InParty": 0,
+            "Location": {
+                "Name": "Delera's Tomb",
+                "Region": "Delera's Graveyard",
+                "IsPublicSpace": 0
+            },
+            "PlayerId": "JbjLl/rZLDDhAGXFYhtjo9geffKE6u5S9us2BF/2e1I=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 1,
+            "TotalLevel": 9
+        },
+        {
+            "Name": "Silverheartt",
+            "Race": "Human",
+            "Guild": "House of Penton",
+            "Gender": "Male",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Druid",
+                    "Level": 11
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 0,
+            "InParty": 0,
+            "Location": {
+                "Name": "Isle of Dread - Village of Tanaroa",
+                "Region": "Isle of Dread",
+                "IsPublicSpace": 1
+            },
+            "PlayerId": "jSgAKE1v1+MUsRUbOS4FfhrtbPCiPqdAJMtL9M1LVXI=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 11
+        },
+        {
+            "Name": "Hezrou",
+            "Race": "Tabaxi Trailblazer",
+            "Guild": "Unlimited Inc",
+            "Gender": "Male",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Paladin",
+                    "Level": 8
+                },
+                {
+                    "Name": "Monk",
+                    "Level": 7
+                },
+                {
+                    "Name": "Cleric",
+                    "Level": 5
+                },
+                {
+                    "Name": "Epic",
+                    "Level": 10
+                },
+                {
+                    "Name": "Legendary",
+                    "Level": 2
+                }
+            ],
+            "GroupId": 0,
+            "InParty": 0,
+            "Location": {
+                "Name": "Volant Alcazar",
+                "Region": "",
+                "IsPublicSpace": 1
+            },
+            "PlayerId": "p2aQUjdznH39ytEvUBJqAU39ow+K4vjxGkeU2kDVOb8=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 32
+        },
+        {
+            "Name": "Feintin",
+            "Race": "Shadar-kai",
+            "Guild": "Old Prolific Pirates OPP",
+            "Gender": "Male",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Fighter",
+                    "Level": 12
+                },
+                {
+                    "Name": "Ranger",
+                    "Level": 5
+                },
+                {
+                    "Name": "Monk",
+                    "Level": 3
+                },
+                {
+                    "Name": "Epic",
+                    "Level": 10
+                },
+                {
+                    "Name": "Legendary",
+                    "Level": 2
+                }
+            ],
+            "GroupId": 0,
+            "InParty": 0,
+            "Location": {
+                "Name": "Hall of Heroes - Eberron",
+                "Region": "",
+                "IsPublicSpace": 1
+            },
+            "PlayerId": "87BWv5E6mvyoKP6EX7ioxWUbTN3AgRAnKK2ASTm5/7o=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 32
+        },
+        {
+            "Name": "Belonnatorez",
+            "Race": "Aasimar",
+            "Guild": "barbarian's guild",
+            "Gender": "Female",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Druid",
+                    "Level": 7
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 0,
+            "InParty": 0,
+            "Location": {
+                "Name": "Daedalean Kraken",
+                "Region": "",
+                "IsPublicSpace": 1
+            },
+            "PlayerId": "0ufEhkGSqqabsnuNx/hBIUrBbviLHamH7HJGVN+B6iM=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 7
+        },
+        {
+            "Name": "Hoyo",
+            "Race": "Elf",
+            "Guild": "Transcended",
+            "Gender": "Male",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Wizard",
+                    "Level": 15
+                },
+                {
+                    "Name": "Rogue",
+                    "Level": 4
+                },
+                {
+                    "Name": "Fighter",
+                    "Level": 1
+                },
+                {
+                    "Name": "Epic",
+                    "Level": 10
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 796574275125691400,
+            "InParty": 1,
+            "Location": {
+                "Name": "Gianthold",
+                "Region": "",
+                "IsPublicSpace": 1
+            },
+            "PlayerId": "hF76SBWZl0cB2PWq6334G7BD8hjx0DRYgcEYz4d4toY=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 1,
+            "TotalLevel": 30
+        },
+        {
+            "Name": "Findael",
+            "Race": "Tiefling",
+            "Guild": "Ascent",
+            "Gender": "Male",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Warlock",
+                    "Level": 3
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 0,
+            "InParty": 0,
+            "Location": {
+                "Name": "The Harbor",
+                "Region": "",
+                "IsPublicSpace": 1
+            },
+            "PlayerId": "TTSWpRWXDthnpr0eInuncmUbTN3AgRAnKK2ASTm5/7o=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 3
+        },
+        {
+            "Name": "Trakkin",
+            "Race": "Drow Elf",
+            "Guild": "League of Extraordinary Heroes",
+            "Gender": "Male",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Ranger",
+                    "Level": 18
+                },
+                {
+                    "Name": "Rogue",
+                    "Level": 2
+                },
+                {
+                    "Name": "Epic",
+                    "Level": 6
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 0,
+            "InParty": 0,
+            "Location": {
+                "Name": "Daedalean Kraken",
+                "Region": "",
+                "IsPublicSpace": 1
+            },
+            "PlayerId": "EVd2AcWdPyKZqepTjNMD+n8BWa4/8NOjySlrOC/JMtI=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 26
+        },
+        {
+            "Name": "Danet",
+            "Race": "Shadar-kai",
+            "Guild": "The Cold Iron Tesseract",
+            "Gender": "Male",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Bard",
+                    "Level": 18
+                },
+                {
+                    "Name": "Rogue",
+                    "Level": 2
+                },
+                {
+                    "Name": "Epic",
+                    "Level": 4
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 0,
+            "InParty": 0,
+            "Location": {
+                "Name": "Daedalean Kraken",
+                "Region": "",
+                "IsPublicSpace": 1
+            },
+            "PlayerId": "MkR+p7Iyi/INwgRmR+yr/nZErB0s69X6hdQaHMu2y7A=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 24
+        },
+        {
+            "Name": "Finrrod",
+            "Race": "Gnome",
+            "Guild": "No estoy Flag",
+            "Gender": "Female",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Alchemist",
+                    "Level": 11
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 796574275125651500,
+            "InParty": 1,
+            "Location": {
+                "Name": "Jungles of Khyber",
+                "Region": "Vault of Night",
+                "IsPublicSpace": 0
+            },
+            "PlayerId": "abPMPsYn8UnXtfrC25bFFzKedIKmppw1CdwmKdWdD08=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 11
+        },
+        {
+            "Name": "Ilusionist",
+            "Race": "Deep Gnome",
+            "Guild": "Trolls Lair",
+            "Gender": "Male",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Wizard",
+                    "Level": 18
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 796574275125661400,
+            "InParty": 1,
+            "Location": {
+                "Name": "Drainage Culverts",
+                "Region": "Wheloon",
+                "IsPublicSpace": 0
+            },
+            "PlayerId": "IhrA1xsd2TdRTBZLbxy3ksV0uMJ2iHRAkhSk5aPgwak=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 18
+        },
+        {
+            "Name": "Stagmiester",
+            "Race": "Tiefling",
+            "Guild": "Bluelight",
+            "Gender": "Male",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Warlock",
+                    "Level": 20
+                },
+                {
+                    "Name": "Epic",
+                    "Level": 10
+                },
+                {
+                    "Name": "Legendary",
+                    "Level": 2
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 0,
+            "InParty": 0,
+            "Location": {
+                "Name": "Gatekeepers' Hostel",
+                "Region": "Harbor",
+                "IsPublicSpace": 0
+            },
+            "PlayerId": "24/LvE23/8kKDuAzaEQ2Qu+EAXcrlMnGmEFfvrL1uyU=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 32
+        },
+        {
+            "Name": "Radamanth",
+            "Race": "Tiefling",
+            "Guild": "Trolls Lair",
+            "Gender": "Male",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Sorcerer",
+                    "Level": 20
+                },
+                {
+                    "Name": "Epic",
+                    "Level": 6
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 0,
+            "InParty": 0,
+            "Location": {
+                "Name": "The King's Forest",
+                "Region": "",
+                "IsPublicSpace": 0
+            },
+            "PlayerId": "+0hu8EJpyyhknYIpJZECBQh2S3HKcQdSFKaHUWYFvj0=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 26
+        },
+        {
+            "Name": "Nesnibtan",
+            "Race": "Aasimar",
+            "Guild": "ARGONAUTS",
+            "Gender": "Male",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Ranger",
+                    "Level": 16
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 0,
+            "InParty": 0,
+            "Location": {
+                "Name": "Hobgoblin Lair",
+                "Region": "Gianthold",
+                "IsPublicSpace": 0
+            },
+            "PlayerId": "hHB3PW3dzkdZb6Fdv2MOcvgxG+BaZGNeJYO9CTSwsXQ=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 16
+        },
+        {
+            "Name": "Doughblade",
+            "Race": "Drow Elf",
+            "Guild": "Magically Malicious",
+            "Gender": "Female",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Warlock",
+                    "Level": 13
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 0,
+            "InParty": 0,
+            "Location": {
+                "Name": "The Portable Hole",
+                "Region": "Gatekeepers' Grove",
+                "IsPublicSpace": 1
+            },
+            "PlayerId": "cFDDr0la/F7wS6+xvIhDQe+EAXcrlMnGmEFfvrL1uyU=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 13
+        },
+        {
+            "Name": "Manja",
+            "Race": "Warforged",
+            "Guild": "Ceiling Cat Is Watching You",
+            "Gender": "Male",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Sorcerer",
+                    "Level": 12
+                },
+                {
+                    "Name": "Favored Soul",
+                    "Level": 2
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 796574275125641300,
+            "InParty": 1,
+            "Location": {
+                "Name": "Matador Village",
+                "Region": "Lordsmarch Plaza",
+                "IsPublicSpace": 0
+            },
+            "PlayerId": "MGYNnaad5KqWlIWcm9sKVpJXaW3iIuizcwQLYaE6f/w=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 14
+        },
+        {
+            "Name": "Magisterius",
+            "Race": "Tiefling",
+            "Guild": "Saved by Grace",
+            "Gender": "Male",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Sorcerer",
+                    "Level": 15
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 796574275125691400,
+            "InParty": 1,
+            "Location": {
+                "Name": "Castle Ravenloft",
+                "Region": "Barovia",
+                "IsPublicSpace": 0
+            },
+            "PlayerId": "b31BtseTb0T6SyejGymBg4CIhlO2MOC2LAcCaMYuQH4=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 15
+        },
+        {
+            "Name": "Torrun",
+            "Race": "Aasimar",
+            "Guild": "We Who Slay Dragons",
+            "Gender": "Male",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Fighter",
+                    "Level": 13
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 796574275125651500,
+            "InParty": 1,
+            "Location": {
+                "Name": "Lower Dura",
+                "Region": "Sharn - Clifftop Tower District",
+                "IsPublicSpace": 0
+            },
+            "PlayerId": "A7EdPyvYAtY/CQ+NP4XWdC0/wcI4IVuFpJe/WvLcw58=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 13
+        },
+        {
+            "Name": "Gruggla",
+            "Race": "Half Orc",
+            "Guild": "Iron Blooded Killers Of Xen'Drik",
+            "Gender": "Male",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Fighter",
+                    "Level": 16
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 0,
+            "InParty": 0,
+            "Location": {
+                "Name": "Eveningstar",
+                "Region": "Eveningstar",
+                "IsPublicSpace": 1
+            },
+            "PlayerId": "jDPAtfKjWvz6QEzDhXIaKR6nb11tFadegZkLrQshNsg=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 16
+        },
+        {
+            "Name": "Hilarelle",
+            "Race": "Aasimar",
+            "Guild": "La flamme et le glaive",
+            "Gender": "Female",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Cleric",
+                    "Level": 19
+                },
+                {
+                    "Name": "Rogue",
+                    "Level": 1
+                },
+                {
+                    "Name": "Epic",
+                    "Level": 10
+                },
+                {
+                    "Name": "Legendary",
+                    "Level": 2
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 0,
+            "InParty": 0,
+            "Location": {
+                "Name": "Isle of Dread - Village of Tanaroa",
+                "Region": "Isle of Dread",
+                "IsPublicSpace": 1
+            },
+            "PlayerId": "hRVHferkTdAWPMOU6LYk4ik17qMDHYf59HeTj3mJaxs=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 32
+        },
+        {
+            "Name": "Aidecamp",
+            "Race": "Warforged",
+            "Guild": "ARROWSTOPPERS",
+            "Gender": "Female",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Sorcerer",
+                    "Level": 13
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 796574275125641500,
+            "InParty": 1,
+            "Location": {
+                "Name": "The Skyfall Coast",
+                "Region": "Lordsmarch Plaza",
+                "IsPublicSpace": 0
+            },
+            "PlayerId": "SmjFSEL9My/6iE6uI6hZMnUaYu5k4JRDGaCQww+Cm8Q=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 13
+        },
+        {
+            "Name": "Vendrd",
+            "Race": "Half Elf",
+            "Guild": "rollin twenties",
+            "Gender": "Male",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Wizard",
+                    "Level": 19
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 796574275125641300,
+            "InParty": 1,
+            "Location": {
+                "Name": "Mountain Glacier",
+                "Region": "The Storm Horns",
+                "IsPublicSpace": 0
+            },
+            "PlayerId": "g87EDJe37yOXPsWOqwtAFzTQ3CvoftGYpJ1Y1Zu9ZzI=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 19
+        },
+        {
+            "Name": "Kavendal",
+            "Race": "Warforged",
+            "Guild": "Regno dell'Oscuro Sapere",
+            "Gender": "Male",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Sorcerer",
+                    "Level": 18
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 796574275125641300,
+            "InParty": 1,
+            "Location": {
+                "Name": "Sharn - Clifftop Tower District",
+                "Region": "",
+                "IsPublicSpace": 1
+            },
+            "PlayerId": "fOUTl+irUrtqW4ZhRRHeSVmDlVpOp2SYi3NS0jxGzUM=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 18
+        },
+        {
+            "Name": "Arghesh",
+            "Race": "Human",
+            "Guild": "Empty Skies",
+            "Gender": "Male",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Wizard",
+                    "Level": 17
+                },
+                {
+                    "Name": "Fighter",
+                    "Level": 2
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 0,
+            "InParty": 0,
+            "Location": {
+                "Name": "Eveningstar",
+                "Region": "Eveningstar",
+                "IsPublicSpace": 1
+            },
+            "PlayerId": "9ux1RaBfXeyxQVOwkWosrLsSboXm+Ji24z/a2QFMOAI=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 19
+        },
+        {
+            "Name": "Piem",
+            "Race": "Human",
+            "Guild": "Golden Army",
+            "Gender": "Male",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Rogue",
+                    "Level": 20
+                },
+                {
+                    "Name": "Epic",
+                    "Level": 10
+                },
+                {
+                    "Name": "Legendary",
+                    "Level": 2
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 796574275125691400,
+            "InParty": 1,
+            "Location": {
+                "Name": "Gianthold",
+                "Region": "",
+                "IsPublicSpace": 1
+            },
+            "PlayerId": "BUUMfTxSjSbUDt9qtLUaufgxG+BaZGNeJYO9CTSwsXQ=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 32
+        },
+        {
+            "Name": "Dreef",
+            "Race": "Drow Elf",
+            "Guild": "Regno dell'Oscuro Sapere",
+            "Gender": "Male",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Wizard",
+                    "Level": 18
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 796574275125641300,
+            "InParty": 1,
+            "Location": {
+                "Name": "Sharn - Clifftop Tower District",
+                "Region": "",
+                "IsPublicSpace": 1
+            },
+            "PlayerId": "j5GNEoFXvQTYHjo6wf/VKjTTEtKYCoaWmf9DOkXKimE=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 18
+        },
+        {
+            "Name": "Raindog",
+            "Race": "Tiefling",
+            "Guild": "Rainbow Warrior",
+            "Gender": "Female",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Warlock",
+                    "Level": 4
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 0,
+            "InParty": 0,
+            "Location": {
+                "Name": "Daedalean Kraken",
+                "Region": "",
+                "IsPublicSpace": 1
+            },
+            "PlayerId": "g2BvZ7WGJt4yLIpczMuH2Xa9o0n8uMbDEDmyeVxiUrA=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 4
+        },
+        {
+            "Name": "Larium",
+            "Race": "Drow Elf",
+            "Guild": "No estoy Flag",
+            "Gender": "Male",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Warlock",
+                    "Level": 18
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 0,
+            "InParty": 0,
+            "Location": {
+                "Name": "Alcorin's Forge - Staging Area",
+                "Region": "",
+                "IsPublicSpace": 1
+            },
+            "PlayerId": "UFgTD8GbcAV9qqZPVEXASLuWsNM23uS6Vn+4cUHbTnI=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 18
+        },
+        {
+            "Name": "Metalliaan",
+            "Race": "Warforged",
+            "Guild": "Metal Gods",
+            "Gender": "Male",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Paladin",
+                    "Level": 20
+                },
+                {
+                    "Name": "Epic",
+                    "Level": 1
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 0,
+            "InParty": 0,
+            "Location": {
+                "Name": "The Harbor",
+                "Region": "",
+                "IsPublicSpace": 1
+            },
+            "PlayerId": "oB0pjXY1u5l0+8PALw/AakrBbviLHamH7HJGVN+B6iM=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 21
+        },
+        {
+            "Name": "Mondrune",
+            "Race": "Human",
+            "Guild": "The Metrics",
+            "Gender": "Male",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Artificer",
+                    "Level": 18
+                },
+                {
+                    "Name": "Rogue",
+                    "Level": 2
+                },
+                {
+                    "Name": "Epic",
+                    "Level": 10
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 0,
+            "InParty": 0,
+            "Location": {
+                "Name": "Daedalean Kraken",
+                "Region": "",
+                "IsPublicSpace": 1
+            },
+            "PlayerId": "5EWHJeTkQWZsk9SRtOMJOVmDlVpOp2SYi3NS0jxGzUM=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 30
+        },
+        {
+            "Name": "Zulken",
+            "Race": "Aasimar Scourge",
+            "Guild": "Ischa Oti Cevil Illu Mi Nati",
+            "Gender": "Male",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Paladin",
+                    "Level": 17
+                },
+                {
+                    "Name": "Ranger",
+                    "Level": 2
+                },
+                {
+                    "Name": "Warlock",
+                    "Level": 1
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 0,
+            "InParty": 0,
+            "Location": {
+                "Name": "Lordsmarch Bank",
+                "Region": "Marketplace",
+                "IsPublicSpace": 1
+            },
+            "PlayerId": "pD53lhWcAFJoRBsJOF6KBZODvPGTNPJr+0F2QmtJqZA=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 20
+        },
+        {
+            "Name": "Judou",
+            "Race": "Dwarf",
+            "Guild": "barbarian's guild",
+            "Gender": "Male",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Druid",
+                    "Level": 8
+                },
+                {
+                    "Name": "Favored Soul",
+                    "Level": 1
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 796574275125661400,
+            "InParty": 1,
+            "Location": {
+                "Name": "Delera's Reliquary",
+                "Region": "",
+                "IsPublicSpace": 0
+            },
+            "PlayerId": "K6tcxmpZTititX5SaxnL0OUNoMLYbWFUKHJ0HZj8dKI=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 9
+        },
+        {
+            "Name": "Galladrir",
+            "Race": "Elf",
+            "Guild": "Xoriat Asylum Escapees",
+            "Gender": "Male",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Ranger",
+                    "Level": 20
+                },
+                {
+                    "Name": "Epic",
+                    "Level": 10
+                },
+                {
+                    "Name": "Legendary",
+                    "Level": 1
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 0,
+            "InParty": 0,
+            "Location": {
+                "Name": "Finding Dorris",
+                "Region": "Sharn - Clifftop Tower District",
+                "IsPublicSpace": 0
+            },
+            "PlayerId": "4kPbcuIJEfw++RsV1uL4zOM7vUimZvO3ijMnYhXsXuA=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 31
+        },
+        {
+            "Name": "Arkai",
+            "Race": "Tiefling Scoundrel",
+            "Guild": "No estoy Flag",
+            "Gender": "Female",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Artificer",
+                    "Level": 19
+                },
+                {
+                    "Name": "Bard",
+                    "Level": 1
+                },
+                {
+                    "Name": "Epic",
+                    "Level": 10
+                },
+                {
+                    "Name": "Legendary",
+                    "Level": 2
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 0,
+            "InParty": 0,
+            "Location": {
+                "Name": "The Marketplace",
+                "Region": "",
+                "IsPublicSpace": 1
+            },
+            "PlayerId": "fTVqZmJ9R2YZOw7uc/Wfcl1t8MxIb/IyALHzXQYS7Ow=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 32
+        },
+        {
+            "Name": "Eltran",
+            "Race": "Human",
+            "Guild": "Draconic Order of Light",
+            "Gender": "Male",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Wizard",
+                    "Level": 10
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 0,
+            "InParty": 0,
+            "Location": {
+                "Name": "The Marketplace",
+                "Region": "",
+                "IsPublicSpace": 1
+            },
+            "PlayerId": "LZjMZzTPxLwFEnKSyeD/3hHxLM8us9VxY+W4BiQCwIQ=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 10
+        },
+        {
+            "Name": "Tanketytank",
+            "Race": "Human",
+            "Guild": "",
+            "Gender": "Male",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Paladin",
+                    "Level": 20
+                },
+                {
+                    "Name": "Epic",
+                    "Level": 4
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 0,
+            "InParty": 0,
+            "Location": {
+                "Name": "Ruins of Gianthold",
+                "Region": "Gianthold",
+                "IsPublicSpace": 0
+            },
+            "PlayerId": "6NhVOvW3QZBxVYMaaR4yfDah2t0VUz6U7M4tSQPgh1o=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 24
+        },
+        {
+            "Name": "Koboldsfor",
+            "Race": "Human",
+            "Guild": "Xoriat Asylum Escapees",
+            "Gender": "Male",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Druid",
+                    "Level": 20
+                },
+                {
+                    "Name": "Epic",
+                    "Level": 10
+                },
+                {
+                    "Name": "Legendary",
+                    "Level": 2
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 0,
+            "InParty": 0,
+            "Location": {
+                "Name": "Wynwood Hall",
+                "Region": "",
+                "IsPublicSpace": 1
+            },
+            "PlayerId": "GQLHOArK2o4rum/j8wcShBkUxFXgvAh3opQIXI054TE=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 32
+        },
+        {
+            "Name": "Likiim",
+            "Race": "Human",
+            "Guild": "Psychopathic Saints",
+            "Gender": "Female",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Bard",
+                    "Level": 12
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 796574275125651500,
+            "InParty": 1,
+            "Location": {
+                "Name": "van Richten's Tower",
+                "Region": "",
+                "IsPublicSpace": 1
+            },
+            "PlayerId": "gT6rCtGfbC0xSj0Y7FCnoqJrZoXjyL/ome2Q8qd010I=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 12
+        },
+        {
+            "Name": "Lyiantis",
+            "Race": "Human",
+            "Guild": "Married With Children",
+            "Gender": "Female",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Paladin",
+                    "Level": 20
+                },
+                {
+                    "Name": "Epic",
+                    "Level": 10
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 0,
+            "InParty": 0,
+            "Location": {
+                "Name": "Wynwood Hall",
+                "Region": "",
+                "IsPublicSpace": 1
+            },
+            "PlayerId": "WKMB6+bmn/jlaKClwl2vjC1bZBp4JZgoyQap47kcmkw=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 30
+        },
+        {
+            "Name": "Viperssong",
+            "Race": "Tiefling Scoundrel",
+            "Guild": "Order of the Emerald Claw",
+            "Gender": "Male",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Paladin",
+                    "Level": 18
+                },
+                {
+                    "Name": "Favored Soul",
+                    "Level": 1
+                },
+                {
+                    "Name": "Monk",
+                    "Level": 1
+                },
+                {
+                    "Name": "Epic",
+                    "Level": 2
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 0,
+            "InParty": 0,
+            "Location": {
+                "Name": "Sharn - Clifftop Tower District",
+                "Region": "",
+                "IsPublicSpace": 1
+            },
+            "PlayerId": "5Y2LRmCpELVC3cb+2ESxMdv2262X7tUkAt8NDbIvyGA=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 22
+        },
+        {
+            "Name": "Moumana",
+            "Race": "Gnome",
+            "Guild": "",
+            "Gender": "Male",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Wizard",
+                    "Level": 20
+                },
+                {
+                    "Name": "Epic",
+                    "Level": 10
+                },
+                {
+                    "Name": "Legendary",
+                    "Level": 2
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 796574275125651500,
+            "InParty": 1,
+            "Location": {
+                "Name": "Viscount Xavier's Tower",
+                "Region": "",
+                "IsPublicSpace": 0
+            },
+            "PlayerId": "tqYWmIXifmEk59oGtrmZGS1bZBp4JZgoyQap47kcmkw=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 32
+        },
+        {
+            "Name": "Ahornball",
+            "Race": "Wood Elf",
+            "Guild": "We Who Slay Dragons",
+            "Gender": "Female",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Cleric",
+                    "Level": 12
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 796574275125651500,
+            "InParty": 1,
+            "Location": {
+                "Name": "Lower Dura",
+                "Region": "Sharn - Clifftop Tower District",
+                "IsPublicSpace": 0
+            },
+            "PlayerId": "anh7BGZdqJToYLrZC8dt/Sk17qMDHYf59HeTj3mJaxs=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 12
+        },
+        {
+            "Name": "Animatorr",
+            "Race": "Half Orc",
+            "Guild": "barbarian's guild",
+            "Gender": "Female",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Barbarian",
+                    "Level": 14
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 0,
+            "InParty": 0,
+            "Location": {
+                "Name": "Morgrave University - Lower Quad",
+                "Region": "",
+                "IsPublicSpace": 1
+            },
+            "PlayerId": "ByJ26hqWOY5dEWQt1iqs3GITcowF7cKeGbrDiLVKMxU=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 14
+        },
+        {
+            "Name": "Anonymous",
+            "Race": "Drow Elf",
+            "Guild": "(redacted)",
+            "Gender": "Female",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Wizard",
+                    "Level": 20
+                },
+                {
+                    "Name": "Epic",
+                    "Level": 10
+                },
+                {
+                    "Name": "Legendary",
+                    "Level": 2
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 0,
+            "InParty": 0,
+            "Location": {
+                "Name": "(redacted)",
+                "Region": "",
+                "IsPublicSpace": 1
+            },
+            "PlayerId": "+n1AxQqrYlgtFNPWZ9QzsZJXaW3iIuizcwQLYaE6f/w=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 32
+        },
+        {
+            "Name": "Sidna",
+            "Race": "Bladeforged",
+            "Guild": "Aces over Kings",
+            "Gender": "Male",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Artificer",
+                    "Level": 20
+                },
+                {
+                    "Name": "Epic",
+                    "Level": 7
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 0,
+            "InParty": 0,
+            "Location": {
+                "Name": "Junction of the Spheres",
+                "Region": "",
+                "IsPublicSpace": 1
+            },
+            "PlayerId": "OyRnsXzyP7qXSLUA4hkEpfO80j70eoIlk/APQvxB0wE=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 27
+        },
+        {
+            "Name": "Nobbaka",
+            "Race": "Half Elf",
+            "Guild": "Clube das Winx",
+            "Gender": "Male",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Sorcerer",
+                    "Level": 3
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 0,
+            "InParty": 0,
+            "Location": {
+                "Name": "Gamblers' Den",
+                "Region": "Harbor",
+                "IsPublicSpace": 0
+            },
+            "PlayerId": "qK0kSuE9UEN/euyJQ5dDpc0y45XUmibvmdvgB7aDFKw=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 3
+        },
+        {
+            "Name": "Constantine",
+            "Race": "Dragonborn",
+            "Guild": "Rejects",
+            "Gender": "Female",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Sorcerer",
+                    "Level": 20
+                },
+                {
+                    "Name": "Epic",
+                    "Level": 10
+                },
+                {
+                    "Name": "Legendary",
+                    "Level": 2
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 0,
+            "InParty": 0,
+            "Location": {
+                "Name": "Isle of Dread - Village of Tanaroa",
+                "Region": "Isle of Dread",
+                "IsPublicSpace": 1
+            },
+            "PlayerId": "y/T5/2VDr/pcTcTeB3NAFYvz4/qz4YfYyO/bh/kequs=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 32
+        },
+        {
+            "Name": "Jukoth",
+            "Race": "Aasimar",
+            "Guild": "Magia i Miecz",
+            "Gender": "Male",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Druid",
+                    "Level": 20
+                },
+                {
+                    "Name": "Epic",
+                    "Level": 10
+                },
+                {
+                    "Name": "Legendary",
+                    "Level": 2
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 0,
+            "InParty": 0,
+            "Location": {
+                "Name": "Sharn - Clifftop Tower District",
+                "Region": "",
+                "IsPublicSpace": 1
+            },
+            "PlayerId": "Mt/J1nQnOx3mIM/THHOcKexsAeOhyMrkffZzGgeOKKI=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 32
+        },
+        {
+            "Name": "Anonymous",
+            "Race": "Bladeforged",
+            "Guild": "(redacted)",
+            "Gender": "Unknown",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Paladin",
+                    "Level": 15
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 0,
+            "InParty": 0,
+            "Location": {
+                "Name": "(redacted)",
+                "Region": "",
+                "IsPublicSpace": 1
+            },
+            "PlayerId": "ps8lXGk0B5iDwECDxcwgX1bVntZ/g/4QZotgnNXTKwE=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 15
+        },
+        {
+            "Name": "Badleg",
+            "Race": "Bladeforged",
+            "Guild": "Tycoons of Tomorrow",
+            "Gender": "Male",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Paladin",
+                    "Level": 20
+                },
+                {
+                    "Name": "Epic",
+                    "Level": 1
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 0,
+            "InParty": 0,
+            "Location": {
+                "Name": "Lyrandar Warship",
+                "Region": "Sharn - Clifftop Tower District",
+                "IsPublicSpace": 0
+            },
+            "PlayerId": "1iGk+4VKB+cKjX3CAQLoxc8t6nlKc+uwNvMWSHu2DFk=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 21
+        },
+        {
+            "Name": "Laelunae",
+            "Race": "Human",
+            "Guild": "Kyrtons Fury",
+            "Gender": "Female",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Druid",
+                    "Level": 20
+                },
+                {
+                    "Name": "Epic",
+                    "Level": 8
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 0,
+            "InParty": 0,
+            "Location": {
+                "Name": "Market Barracks",
+                "Region": "Marketplace",
+                "IsPublicSpace": 0
+            },
+            "PlayerId": "KM6mn+P3yY6ORHjz8XSbMOQMRHC6Y484TTq8lXQfMpc=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 28
+        },
+        {
+            "Name": "Hanodar",
+            "Race": "Gnome",
+            "Guild": "United Training",
+            "Gender": "Male",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Alchemist",
+                    "Level": 8
+                },
+                {
+                    "Name": "Rogue",
+                    "Level": 2
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 0,
+            "InParty": 0,
+            "Location": {
+                "Name": "Blue Water Inn",
+                "Region": "",
+                "IsPublicSpace": 1
+            },
+            "PlayerId": "tdmPg/H7qI3Df8hIIBiQmNTIMHMixjsN5xWetU0INow=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 10
+        },
+        {
+            "Name": "Smokewolf",
+            "Race": "Razorclaw Shifter",
+            "Guild": "Bringers of Darkness",
+            "Gender": "Male",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Wizard",
+                    "Level": 18
+                },
+                {
+                    "Name": "Artificer",
+                    "Level": 1
+                },
+                {
+                    "Name": "Barbarian",
+                    "Level": 1
+                },
+                {
+                    "Name": "Epic",
+                    "Level": 5
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 0,
+            "InParty": 0,
+            "Location": {
+                "Name": "The Portable Hole",
+                "Region": "Gatekeepers' Grove",
+                "IsPublicSpace": 1
+            },
+            "PlayerId": "7tPljnf1KqAv72WVzFaBMTZQdxkOXcOT6MtvPGg5Kz0=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 25
+        },
+        {
+            "Name": "Eilenne",
+            "Race": "Aasimar",
+            "Guild": "No estoy Flag",
+            "Gender": "Female",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Paladin",
+                    "Level": 17
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 796574275125651500,
+            "InParty": 1,
+            "Location": {
+                "Name": "The Cogs",
+                "Region": "",
+                "IsPublicSpace": 0
+            },
+            "PlayerId": "qoyM2gCDCQ7vNWQ8O+yFnsV0uMJ2iHRAkhSk5aPgwak=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 17
+        },
+        {
+            "Name": "Fragelmented",
+            "Race": "Warforged",
+            "Guild": "Mortal Voyage Permadeath Guild",
+            "Gender": "Male",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Wizard",
+                    "Level": 9
+                },
+                {
+                    "Name": "Barbarian",
+                    "Level": 4
+                },
+                {
+                    "Name": "Artificer",
+                    "Level": 1
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 0,
+            "InParty": 0,
+            "Location": {
+                "Name": "Dava Gate",
+                "Region": "Sharn - Clifftop Tower District",
+                "IsPublicSpace": 0
+            },
+            "PlayerId": "UzPAGQEylawhsBT/YPJnvyvSYwVexydoxStne3ly5to=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 14
+        },
+        {
+            "Name": "Alisonbrewer",
+            "Race": "Human",
+            "Guild": "WhiteWitches",
+            "Gender": "Female",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Rogue",
+                    "Level": 20
+                },
+                {
+                    "Name": "Epic",
+                    "Level": 2
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 0,
+            "InParty": 0,
+            "Location": {
+                "Name": "Stormglory Typhoon",
+                "Region": "",
+                "IsPublicSpace": 1
+            },
+            "PlayerId": "gkNgl5HanoecWfE8z/Al3x6nb11tFadegZkLrQshNsg=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 22
+        },
+        {
+            "Name": "Xenitron",
+            "Race": "Warforged",
+            "Guild": "Monster Ops Neutralization",
+            "Gender": "Male",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Artificer",
+                    "Level": 20
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 0,
+            "InParty": 0,
+            "Location": {
+                "Name": "The Marketplace",
+                "Region": "",
+                "IsPublicSpace": 1
+            },
+            "PlayerId": "+LMn+kLe2KzXKwDoj1TmshYoMm+n6v4oyvM7xBNLPKQ=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 20
+        },
+        {
+            "Name": "Khaydarin",
+            "Race": "Human",
+            "Guild": "White Kitsune Arms",
+            "Gender": "Female",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Alchemist",
+                    "Level": 11
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 796574275125003100,
+            "InParty": 1,
+            "Location": {
+                "Name": "The Haywire Foundry",
+                "Region": "Vault of Night",
+                "IsPublicSpace": 0
+            },
+            "PlayerId": "fXOefZXOB7ygki3/lkhyuKQm5JMTx62HfwMNVvcdxEI=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 11
+        },
+        {
+            "Name": "Alysada",
+            "Race": "Half Orc",
+            "Guild": "Bluelight",
+            "Gender": "Female",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Monk",
+                    "Level": 20
+                },
+                {
+                    "Name": "Epic",
+                    "Level": 10
+                },
+                {
+                    "Name": "Legendary",
+                    "Level": 2
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 0,
+            "InParty": 0,
+            "Location": {
+                "Name": "Daedalean Kraken",
+                "Region": "",
+                "IsPublicSpace": 1
+            },
+            "PlayerId": "5HBGLDlbDWDjAVO6BFXDxgzjkIHG2lo7li8ako3Rm8s=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 32
+        },
+        {
+            "Name": "Thaumir",
+            "Race": "Warforged",
+            "Guild": "Tycoons of Tomorrow",
+            "Gender": "Male",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Paladin",
+                    "Level": 9
+                },
+                {
+                    "Name": "Artificer",
+                    "Level": 7
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 796574275125661400,
+            "InParty": 1,
+            "Location": {
+                "Name": "Beneath the Thunder Sea",
+                "Region": "Harbor",
+                "IsPublicSpace": 0
+            },
+            "PlayerId": "p1RlUBxkSD6L/L0aWG7CUklzo5OuelndftTwHQQkfJU=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 16
+        },
+        {
+            "Name": "Zorgmeister",
+            "Race": "Human",
+            "Guild": "rollin twenties",
+            "Gender": "Male",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Artificer",
+                    "Level": 6
+                },
+                {
+                    "Name": "Fighter",
+                    "Level": 1
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 0,
+            "InParty": 0,
+            "Location": {
+                "Name": "The Haunted House",
+                "Region": "",
+                "IsPublicSpace": 0
+            },
+            "PlayerId": "oBGkz9Nm/6ABARkxlaVi0GITcowF7cKeGbrDiLVKMxU=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 1,
+            "TotalLevel": 7
+        },
+        {
+            "Name": "Yeeters",
+            "Race": "Dragonborn",
+            "Guild": "White Kitsune Arms",
+            "Gender": "Male",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Bard",
+                    "Level": 11
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 796574275125003100,
+            "InParty": 1,
+            "Location": {
+                "Name": "The Haywire Foundry",
+                "Region": "Vault of Night",
+                "IsPublicSpace": 0
+            },
+            "PlayerId": "+DbH/Fs3m8n/9jbzkGkzE4AQiCj2UXZ0rA/ihywwMzI=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 11
+        },
+        {
+            "Name": "Anonymous",
+            "Race": "Human",
+            "Guild": "(redacted)",
+            "Gender": "Unknown",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Barbarian",
+                    "Level": 1
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 0,
+            "InParty": 0,
+            "Location": {
+                "Name": "(redacted)",
+                "Region": "Korthos Island",
+                "IsPublicSpace": 1
+            },
+            "PlayerId": "HbNsiHBtLIwvw4uei/d72vO80j70eoIlk/APQvxB0wE=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 1
+        },
+        {
+            "Name": "Runebear",
+            "Race": "Aasimar",
+            "Guild": "Golden Army",
+            "Gender": "Male",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Cleric",
+                    "Level": 14
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 796574275125641500,
+            "InParty": 1,
+            "Location": {
+                "Name": "The Skyfall Coast",
+                "Region": "Lordsmarch Plaza",
+                "IsPublicSpace": 0
+            },
+            "PlayerId": "j/YMTqRUHx8NgDJsEcdhBgAzBrh2GQqWwyUUekLKb1g=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 1,
+            "TotalLevel": 14
+        },
+        {
+            "Name": "Mvnarcwizscr",
+            "Race": "Warforged",
+            "Guild": "Mortal Voyage Permadeath Guild",
+            "Gender": "Male",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Artificer",
+                    "Level": 1
+                },
+                {
+                    "Name": "Barbarian",
+                    "Level": 1
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 0,
+            "InParty": 0,
+            "Location": {
+                "Name": "Stormglory Tempest",
+                "Region": "",
+                "IsPublicSpace": 1
+            },
+            "PlayerId": "2ZpID1sCuUwf1gBEMrp2CQzjkIHG2lo7li8ako3Rm8s=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 2
+        },
+        {
+            "Name": "Fandhir",
+            "Race": "Aasimar",
+            "Guild": "Magia i Miecz",
+            "Gender": "Male",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Ranger",
+                    "Level": 20
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 0,
+            "InParty": 0,
+            "Location": {
+                "Name": "The Bridge Between",
+                "Region": "",
+                "IsPublicSpace": 1
+            },
+            "PlayerId": "vg78sD819ORmqxT8xZhlCY2K3/s/aLrwnKWvsjmVeqg=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 20
+        },
+        {
+            "Name": "Markusson",
+            "Race": "Warforged",
+            "Guild": "Circle of Destruction",
+            "Gender": "Male",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Artificer",
+                    "Level": 17
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 0,
+            "InParty": 0,
+            "Location": {
+                "Name": "Volant Signet",
+                "Region": "",
+                "IsPublicSpace": 1
+            },
+            "PlayerId": "DFrvzSaFDTRxYbHfGPU0xUy1yAMfcu4p4uX/5blEH0s=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 17
+        },
+        {
+            "Name": "Khuba",
+            "Race": "Half Orc",
+            "Guild": "Reapers Academy",
+            "Gender": "Male",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Barbarian",
+                    "Level": 20
+                },
+                {
+                    "Name": "Epic",
+                    "Level": 10
+                },
+                {
+                    "Name": "Legendary",
+                    "Level": 2
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 0,
+            "InParty": 0,
+            "Location": {
+                "Name": "Bank of Kundarak",
+                "Region": "",
+                "IsPublicSpace": 1
+            },
+            "PlayerId": "+MHvlYLk4breuNgukPaKPx6nb11tFadegZkLrQshNsg=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 32
+        },
+        {
+            "Name": "Allesofniets",
+            "Race": "Human",
+            "Guild": "Transcended",
+            "Gender": "Female",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Cleric",
+                    "Level": 14
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 796574275125691400,
+            "InParty": 1,
+            "Location": {
+                "Name": "Matador Village",
+                "Region": "Lordsmarch Plaza",
+                "IsPublicSpace": 0
+            },
+            "PlayerId": "AcCX8NMWuDDpSfSmceD5mPe/RRJrS1WZm7dumAWBhxI=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 14
+        },
+        {
+            "Name": "Pejilla",
+            "Race": "Shifter",
+            "Guild": "Transcended",
+            "Gender": "Male",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Paladin",
+                    "Level": 12
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 0,
+            "InParty": 0,
+            "Location": {
+                "Name": "Daedalean Kraken",
+                "Region": "",
+                "IsPublicSpace": 1
+            },
+            "PlayerId": "jYqk+lT27MZf0FvS30hJE15If50KeLzXtpAtJbMCtro=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 12
+        },
+        {
+            "Name": "Terpilar",
+            "Race": "Human",
+            "Guild": "Order of the Grail",
+            "Gender": "Male",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Warlock",
+                    "Level": 20
+                },
+                {
+                    "Name": "Epic",
+                    "Level": 8
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 796574275125661400,
+            "InParty": 1,
+            "Location": {
+                "Name": "The Blooded Wood",
+                "Region": "The High Road",
+                "IsPublicSpace": 0
+            },
+            "PlayerId": "PA0B8xMSYQ7wB6RWUji/oNoe0NYHixN4J7AjvyJEH+o=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 28
+        },
+        {
+            "Name": "Vhult",
+            "Race": "Tiefling",
+            "Guild": "The Red Coats",
+            "Gender": "Male",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Bard",
+                    "Level": 20
+                },
+                {
+                    "Name": "Epic",
+                    "Level": 10
+                },
+                {
+                    "Name": "Legendary",
+                    "Level": 2
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 0,
+            "InParty": 0,
+            "Location": {
+                "Name": "Viscount Xavier's Tower",
+                "Region": "",
+                "IsPublicSpace": 0
+            },
+            "PlayerId": "LmZqygDp4gmLjypYoxdNhYCIhlO2MOC2LAcCaMYuQH4=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 1,
+            "TotalLevel": 32
+        },
+        {
+            "Name": "Revelio",
+            "Race": "Human",
+            "Guild": "",
+            "Gender": "Male",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Paladin",
+                    "Level": 5
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 0,
+            "InParty": 0,
+            "Location": {
+                "Name": "The Harbor",
+                "Region": "",
+                "IsPublicSpace": 1
+            },
+            "PlayerId": "Pd+bu3g6fAjYqUmaJ/0q5qQm5JMTx62HfwMNVvcdxEI=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 5
+        },
+        {
+            "Name": "Berserkir",
+            "Race": "Aasimar",
+            "Guild": "Reapers Academy",
+            "Gender": "Male",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Druid",
+                    "Level": 17
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 796574275125651500,
+            "InParty": 1,
+            "Location": {
+                "Name": "Club Clawfoot",
+                "Region": "Sharn - Clifftop Tower District",
+                "IsPublicSpace": 0
+            },
+            "PlayerId": "bjBJMmHH8AZp8vguyaZ5RY0Jal7yUzvV0c4usE4hZIs=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 17
+        },
+        {
+            "Name": "Anonymous",
+            "Race": "Human",
+            "Guild": "(redacted)",
+            "Gender": "Male",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Rogue",
+                    "Level": 9
+                },
+                {
+                    "Name": "Artificer",
+                    "Level": 2
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 0,
+            "InParty": 0,
+            "Location": {
+                "Name": "(redacted)",
+                "Region": "",
+                "IsPublicSpace": 1
+            },
+            "PlayerId": "Ydr2kHSXkHtGWBT85GugDTh/sA1BjCRBZwWd0OgHsx8=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 11
+        },
+        {
+            "Name": "Goblynn",
+            "Race": "Half Orc",
+            "Guild": "Storms of Wrath",
+            "Gender": "Female",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Barbarian",
+                    "Level": 20
+                },
+                {
+                    "Name": "Epic",
+                    "Level": 6
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 0,
+            "InParty": 0,
+            "Location": {
+                "Name": "The Harbor",
+                "Region": "",
+                "IsPublicSpace": 1
+            },
+            "PlayerId": "MXWWVB0oy/YI/7EkNDfV+C9WyoNsSD4qrBf4rb++wak=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 26
+        },
+        {
+            "Name": "Peterjackson",
+            "Race": "Drow Elf",
+            "Guild": "BAT",
+            "Gender": "Male",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Bard",
+                    "Level": 20
+                },
+                {
+                    "Name": "Epic",
+                    "Level": 2
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 0,
+            "InParty": 0,
+            "Location": {
+                "Name": "Secret Caverns",
+                "Region": "",
+                "IsPublicSpace": 0
+            },
+            "PlayerId": "nst0NkrqERkc6kQC1cAy6HUaYu5k4JRDGaCQww+Cm8Q=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 22
+        },
+        {
+            "Name": "Royalboop",
+            "Race": "Shadar-kai",
+            "Guild": "AEONIAN MOARTE",
+            "Gender": "Male",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Wizard",
+                    "Level": 18
+                },
+                {
+                    "Name": "Rogue",
+                    "Level": 2
+                },
+                {
+                    "Name": "Epic",
+                    "Level": 10
+                },
+                {
+                    "Name": "Legendary",
+                    "Level": 2
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 0,
+            "InParty": 0,
+            "Location": {
+                "Name": "Saltmarsh",
+                "Region": "",
+                "IsPublicSpace": 0
+            },
+            "PlayerId": "J7W1FqRuOOfqQE8ulMooNUyDEPVPZK0Po4uWMtXamjE=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 32
+        },
+        {
+            "Name": "Ellydan",
+            "Race": "Aasimar",
+            "Guild": "ARGONAUTS",
+            "Gender": "Male",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Fighter",
+                    "Level": 13
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 796574275125641300,
+            "InParty": 1,
+            "Location": {
+                "Name": "Wachterhaus",
+                "Region": "",
+                "IsPublicSpace": 0
+            },
+            "PlayerId": "szB+mKA1+j0uBqSF0grzAiEoRMJiDhbOjOGkZ0aJ3vo=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 1,
+            "TotalLevel": 13
+        },
+        {
+            "Name": "Rediiye",
+            "Race": "Human",
+            "Guild": "Tycoons of Tomorrow",
+            "Gender": "Female",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Bard",
+                    "Level": 6
+                },
+                {
+                    "Name": "Fighter",
+                    "Level": 2
+                },
+                {
+                    "Name": "Rogue",
+                    "Level": 2
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 796574275125691400,
+            "InParty": 1,
+            "Location": {
+                "Name": "Arzag-Khor Sewer",
+                "Region": "House Phiarlan Enclave",
+                "IsPublicSpace": 0
+            },
+            "PlayerId": "4StZ6C0c3xMVY4xWi6hzgk1Iqir54k/5udWmciGYc/0=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 1,
+            "TotalLevel": 10
+        },
+        {
+            "Name": "Wildwitch",
+            "Race": "Shadar-kai",
+            "Guild": "rollin twenties",
+            "Gender": "Female",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Druid",
+                    "Level": 18
+                },
+                {
+                    "Name": "Rogue",
+                    "Level": 2
+                },
+                {
+                    "Name": "Epic",
+                    "Level": 10
+                },
+                {
+                    "Name": "Legendary",
+                    "Level": 2
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 0,
+            "InParty": 0,
+            "Location": {
+                "Name": "The Haunted Halls of Eveningstar",
+                "Region": "Eveningstar",
+                "IsPublicSpace": 0
+            },
+            "PlayerId": "w5eLKtA33/U8qKpfTyQrbKdldgyZq7WiO6nUGFtGDHI=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 32
+        },
+        {
+            "Name": "Landdis",
+            "Race": "Halfling",
+            "Guild": "barbarian's guild",
+            "Gender": "Male",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Druid",
+                    "Level": 20
+                },
+                {
+                    "Name": "Epic",
+                    "Level": 7
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 0,
+            "InParty": 0,
+            "Location": {
+                "Name": "The Old Man's Face Inn",
+                "Region": "The High Road",
+                "IsPublicSpace": 0
+            },
+            "PlayerId": "05dSfF8tzWeZQA0jKH9K04vz4/qz4YfYyO/bh/kequs=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 27
+        },
+        {
+            "Name": "Bankaaa",
+            "Race": "Tiefling Scoundrel",
+            "Guild": "Trolls Lair",
+            "Gender": "Female",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Bard",
+                    "Level": 18
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 796574275125661400,
+            "InParty": 1,
+            "Location": {
+                "Name": "Drainage Culverts",
+                "Region": "Wheloon",
+                "IsPublicSpace": 0
+            },
+            "PlayerId": "kCFXrvacTZmURWGfx5yEn9OY4OpSDr1av52ADvkdYck=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 18
+        },
+        {
+            "Name": "Griphe",
+            "Race": "Dwarf",
+            "Guild": "dolus ex abyssus",
+            "Gender": "Male",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Druid",
+                    "Level": 3
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 0,
+            "InParty": 0,
+            "Location": {
+                "Name": "Korthos Village",
+                "Region": "",
+                "IsPublicSpace": 1
+            },
+            "PlayerId": "Fjv7wksZLyIE+2wUhV2vmmjqb/qxlYi2jYq25mMhzo4=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 3
+        },
+        {
+            "Name": "Medgy",
+            "Race": "Purple Dragon Knight",
+            "Guild": "Aces over Kings",
+            "Gender": "Male",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Fighter",
+                    "Level": 20
+                },
+                {
+                    "Name": "Epic",
+                    "Level": 4
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 796574275125651500,
+            "InParty": 1,
+            "Location": {
+                "Name": "The Eveningstar Well",
+                "Region": "Eveningstar",
+                "IsPublicSpace": 0
+            },
+            "PlayerId": "LNeZMz7wevYEst0pK4ykXZJXaW3iIuizcwQLYaE6f/w=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 24
+        },
+        {
+            "Name": "Zenfendell",
+            "Race": "Bladeforged",
+            "Guild": "Aces over Kings",
+            "Gender": "Female",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Artificer",
+                    "Level": 20
+                },
+                {
+                    "Name": "Epic",
+                    "Level": 4
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 796574275125651500,
+            "InParty": 1,
+            "Location": {
+                "Name": "The Eveningstar Well",
+                "Region": "Eveningstar",
+                "IsPublicSpace": 0
+            },
+            "PlayerId": "P4kcmQaQSQtUkDGJ3dbh+W8NdF4llLDKeG9a5efEJH4=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 24
+        },
+        {
+            "Name": "Milkquake",
+            "Race": "Human",
+            "Guild": "Reapers Academy",
+            "Gender": "Male",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Druid",
+                    "Level": 8
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 0,
+            "InParty": 0,
+            "Location": {
+                "Name": "The Hut from Beyond",
+                "Region": "",
+                "IsPublicSpace": 0
+            },
+            "PlayerId": "89Xa3xC4UAR+X8t/j0zH3FmDlVpOp2SYi3NS0jxGzUM=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 8
+        },
+        {
+            "Name": "Cosmonauta",
+            "Race": "Dragonborn",
+            "Guild": "Bluelight",
+            "Gender": "Male",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Bard",
+                    "Level": 10
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 0,
+            "InParty": 0,
+            "Location": {
+                "Name": "Anvilfire Inn",
+                "Region": "",
+                "IsPublicSpace": 1
+            },
+            "PlayerId": "89Xa3xC4UAR+X8t/j0zH3CmDPBVcRPO1XyZimp8b0Eg=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 10
+        },
+        {
+            "Name": "Nightcrwler",
+            "Race": "Tiefling Scoundrel",
+            "Guild": "Metal Gods",
+            "Gender": "Female",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Bard",
+                    "Level": 20
+                },
+                {
+                    "Name": "Epic",
+                    "Level": 5
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 0,
+            "InParty": 0,
+            "Location": {
+                "Name": "The Harbor",
+                "Region": "",
+                "IsPublicSpace": 1
+            },
+            "PlayerId": "9ewKUXCAgTciSQCseyw5yTah2t0VUz6U7M4tSQPgh1o=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 25
+        },
+        {
+            "Name": "Scrimmie",
+            "Race": "Tabaxi",
+            "Guild": "Storms of Wrath",
+            "Gender": "Female",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Warlock",
+                    "Level": 20
+                },
+                {
+                    "Name": "Epic",
+                    "Level": 3
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 0,
+            "InParty": 0,
+            "Location": {
+                "Name": "The Realm of Ruin",
+                "Region": "The Demonweb",
+                "IsPublicSpace": 0
+            },
+            "PlayerId": "vdeVShSod0zcbalvrlXQWKa7KYHAZcK3LFbhWBZxWNY=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 23
+        },
+        {
+            "Name": "Redwrake",
+            "Race": "Dragonborn",
+            "Guild": "Tycoons of Tomorrow",
+            "Gender": "Male",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Warlock",
+                    "Level": 14
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 0,
+            "InParty": 0,
+            "Location": {
+                "Name": "The Marketplace",
+                "Region": "",
+                "IsPublicSpace": 1
+            },
+            "PlayerId": "Rfp2wyQqNy8rrRjDKlzTFWjqb/qxlYi2jYq25mMhzo4=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 14
+        },
+        {
+            "Name": "Bayare",
+            "Race": "Human",
+            "Guild": "La flamme et le glaive",
+            "Gender": "Male",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Paladin",
+                    "Level": 20
+                },
+                {
+                    "Name": "Epic",
+                    "Level": 3
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 796574275125661400,
+            "InParty": 1,
+            "Location": {
+                "Name": "The Rift Between Worlds",
+                "Region": "The Spinner's Prison",
+                "IsPublicSpace": 0
+            },
+            "PlayerId": "57VUggSAWG5pYu1KwnnfKIvz4/qz4YfYyO/bh/kequs=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 23
+        },
+        {
+            "Name": "Darksavage",
+            "Race": "Half Orc",
+            "Guild": "Sinister Savages",
+            "Gender": "Female",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Druid",
+                    "Level": 11
+                },
+                {
+                    "Name": "Favored Soul",
+                    "Level": 1
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 0,
+            "InParty": 0,
+            "Location": {
+                "Name": "The Harbor",
+                "Region": "",
+                "IsPublicSpace": 1
+            },
+            "PlayerId": "fVq7SLksYTTRGaR0Pft5ZI2K3/s/aLrwnKWvsjmVeqg=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 12
+        },
+        {
+            "Name": "Whyer",
+            "Race": "Human",
+            "Guild": "Mauraders of BOA",
+            "Gender": "Male",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Paladin",
+                    "Level": 20
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 0,
+            "InParty": 0,
+            "Location": {
+                "Name": "The Borderlands",
+                "Region": "",
+                "IsPublicSpace": 0
+            },
+            "PlayerId": "20+dlMbfR+WH7/nQZYTP0DKedIKmppw1CdwmKdWdD08=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 20
+        },
+        {
+            "Name": "Agarwain",
+            "Race": "Dwarf",
+            "Guild": "Beerwagon Saints",
+            "Gender": "Male",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Cleric",
+                    "Level": 7
+                },
+                {
+                    "Name": "Rogue",
+                    "Level": 2
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 0,
+            "InParty": 0,
+            "Location": {
+                "Name": "House Deneith Enclave",
+                "Region": "",
+                "IsPublicSpace": 1
+            },
+            "PlayerId": "BR/6iVMb4/w4NbycGYWGl38BWa4/8NOjySlrOC/JMtI=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 9
+        },
+        {
+            "Name": "Demerald",
+            "Race": "Drow Elf",
+            "Guild": "",
+            "Gender": "Female",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Rogue",
+                    "Level": 13
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 0,
+            "InParty": 0,
+            "Location": {
+                "Name": "The Marketplace",
+                "Region": "",
+                "IsPublicSpace": 1
+            },
+            "PlayerId": "kOW5gupZkqAuRCfmgdfdtiUgmv95nwWrNCqL8L/F8LY=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 13
+        },
+        {
+            "Name": "Necromazer",
+            "Race": "Halfling",
+            "Guild": "Darkspeed",
+            "Gender": "Male",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Cleric",
+                    "Level": 7
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 796574275125651500,
+            "InParty": 1,
+            "Location": {
+                "Name": "Clan Tunnelworm Lair",
+                "Region": "",
+                "IsPublicSpace": 0
+            },
+            "PlayerId": "DrIp76MBZCXKwdNeOYCg1x6nb11tFadegZkLrQshNsg=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 7
+        },
+        {
+            "Name": "Kibella",
+            "Race": "Half Elf",
+            "Guild": "",
+            "Gender": "Female",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Sorcerer",
+                    "Level": 8
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 796574275125691400,
+            "InParty": 1,
+            "Location": {
+                "Name": "House Deneith Enclave",
+                "Region": "",
+                "IsPublicSpace": 1
+            },
+            "PlayerId": "vf8O5qzOjTHF91NjTqm7ALuWsNM23uS6Vn+4cUHbTnI=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 8
+        },
+        {
+            "Name": "Jydreg",
+            "Race": "Half Orc",
+            "Guild": "Darkspeed",
+            "Gender": "Male",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Druid",
+                    "Level": 7
+                },
+                {
+                    "Name": "Favored Soul",
+                    "Level": 1
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 796574275125691400,
+            "InParty": 1,
+            "Location": {
+                "Name": "House Deneith Enclave",
+                "Region": "",
+                "IsPublicSpace": 1
+            },
+            "PlayerId": "RC9R243qqAZzKaysbvGxdzKedIKmppw1CdwmKdWdD08=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 8
+        },
+        {
+            "Name": "Grimu",
+            "Race": "Aasimar",
+            "Guild": "Reapers Academy",
+            "Gender": "Male",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Cleric",
+                    "Level": 17
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 796574275125651500,
+            "InParty": 1,
+            "Location": {
+                "Name": "Club Clawfoot",
+                "Region": "Sharn - Clifftop Tower District",
+                "IsPublicSpace": 0
+            },
+            "PlayerId": "+oCacLDgu2AjP+YrxHSg29oe0NYHixN4J7AjvyJEH+o=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 17
+        },
+        {
+            "Name": "Uyric",
+            "Race": "Drow Elf",
+            "Guild": "Psychopathic Saints",
+            "Gender": "Male",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Bard",
+                    "Level": 6
+                },
+                {
+                    "Name": "Artificer",
+                    "Level": 4
+                },
+                {
+                    "Name": "Rogue",
+                    "Level": 2
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 796574275125651500,
+            "InParty": 1,
+            "Location": {
+                "Name": "van Richten's Tower",
+                "Region": "",
+                "IsPublicSpace": 1
+            },
+            "PlayerId": "uXhlYgb7tFXS1KeiyDAT2oCIhlO2MOC2LAcCaMYuQH4=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 12
+        },
+        {
+            "Name": "Skaelds",
+            "Race": "Human",
+            "Guild": "Second Breakfast",
+            "Gender": "Male",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Bard",
+                    "Level": 11
+                },
+                {
+                    "Name": "Rogue",
+                    "Level": 1
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 0,
+            "InParty": 0,
+            "Location": {
+                "Name": "Ruins of Gianthold",
+                "Region": "Gianthold",
+                "IsPublicSpace": 0
+            },
+            "PlayerId": "BXgbew0HJsUUZSkM8gNWkGjqb/qxlYi2jYq25mMhzo4=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 12
+        },
+        {
+            "Name": "Unread",
+            "Race": "Halfling",
+            "Guild": "No estoy Flag",
+            "Gender": "Female",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Ranger",
+                    "Level": 12
+                },
+                {
+                    "Name": "Rogue",
+                    "Level": 4
+                },
+                {
+                    "Name": "Paladin",
+                    "Level": 1
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 796574275125651500,
+            "InParty": 1,
+            "Location": {
+                "Name": "The Cogs",
+                "Region": "",
+                "IsPublicSpace": 0
+            },
+            "PlayerId": "TSyj2ib4mNiWpsh2yCn3H5lWVjGFlgM1yH9bvYWZZi0=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 17
+        },
+        {
+            "Name": "Theriana",
+            "Race": "Drow Elf",
+            "Guild": "Transcended",
+            "Gender": "Female",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Warlock",
+                    "Level": 12
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 796574275125641500,
+            "InParty": 1,
+            "Location": {
+                "Name": "The Skyfall Coast",
+                "Region": "Lordsmarch Plaza",
+                "IsPublicSpace": 0
+            },
+            "PlayerId": "VA6wi2GdqcGgi20vnCErSsV0uMJ2iHRAkhSk5aPgwak=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 12
+        },
+        {
+            "Name": "Mysticom",
+            "Race": "Dragonborn",
+            "Guild": "",
+            "Gender": "Female",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Warlock",
+                    "Level": 4
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 0,
+            "InParty": 0,
+            "Location": {
+                "Name": "The Marketplace",
+                "Region": "",
+                "IsPublicSpace": 1
+            },
+            "PlayerId": "hvxCze3wVZ7MtBXidoPC1LgO09Fjcuf6KqCRP1Ok4BQ=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 4
+        },
+        {
+            "Name": "Sylvarain",
+            "Race": "Aasimar",
+            "Guild": "",
+            "Gender": "Female",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Cleric",
+                    "Level": 1
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 796574275125661400,
+            "InParty": 1,
+            "Location": {
+                "Name": "The Borderlands",
+                "Region": "",
+                "IsPublicSpace": 0
+            },
+            "PlayerId": "2xVHrWHYQ3upzdS6dCcS/ivSYwVexydoxStne3ly5to=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 1
+        },
+        {
+            "Name": "Hagglewaggle",
+            "Race": "Tiefling Scoundrel",
+            "Guild": "Independent Adventurers",
+            "Gender": "Male",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Bard",
+                    "Level": 15
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 0,
+            "InParty": 0,
+            "Location": {
+                "Name": "House Jorasco Enclave",
+                "Region": "",
+                "IsPublicSpace": 1
+            },
+            "PlayerId": "Z7y2EfB8ywD0T3OV04amo3LGGkj9rUTBj9i3x/8lUuE=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 15
+        },
+        {
+            "Name": "Limpette",
+            "Race": "Human",
+            "Guild": "D'Anse D'Anse Revolution",
+            "Gender": "Female",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Paladin",
+                    "Level": 7
+                },
+                {
+                    "Name": "Favored Soul",
+                    "Level": 1
+                },
+                {
+                    "Name": "Monk",
+                    "Level": 1
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 0,
+            "InParty": 0,
+            "Location": {
+                "Name": "The Salty Wench Tavern",
+                "Region": "",
+                "IsPublicSpace": 1
+            },
+            "PlayerId": "W7OfWI6Ep86bWTa6glm0LDh/sA1BjCRBZwWd0OgHsx8=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 9
+        },
+        {
+            "Name": "Nedwynn",
+            "Race": "Human",
+            "Guild": "Transcended",
+            "Gender": "Male",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Cleric",
+                    "Level": 5
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 0,
+            "InParty": 0,
+            "Location": {
+                "Name": "The Harbor",
+                "Region": "",
+                "IsPublicSpace": 1
+            },
+            "PlayerId": "xdT803WBW3D+iYtB/tDnss0y45XUmibvmdvgB7aDFKw=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 5
+        },
+        {
+            "Name": "Mercredi",
+            "Race": "Human",
+            "Guild": "",
+            "Gender": "Female",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Druid",
+                    "Level": 3
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 796574275125661400,
+            "InParty": 1,
+            "Location": {
+                "Name": "The Harbor",
+                "Region": "",
+                "IsPublicSpace": 1
+            },
+            "PlayerId": "oleCq5rz0MPrYOoCgw4B/u+EAXcrlMnGmEFfvrL1uyU=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 3
+        },
+        {
+            "Name": "Jeudi",
+            "Race": "Human",
+            "Guild": "",
+            "Gender": "Male",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Druid",
+                    "Level": 3
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 796574275125661400,
+            "InParty": 1,
+            "Location": {
+                "Name": "The Harbor",
+                "Region": "",
+                "IsPublicSpace": 1
+            },
+            "PlayerId": "oleCq5rz0MPrYOoCgw4B/tTIMHMixjsN5xWetU0INow=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 3
+        },
+        {
+            "Name": "Mopok",
+            "Race": "Drow Elf",
+            "Guild": "",
+            "Gender": "Female",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Rogue",
+                    "Level": 2
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 796574275125691400,
+            "InParty": 1,
+            "Location": {
+                "Name": "Underground Complex",
+                "Region": "Korthos Island",
+                "IsPublicSpace": 0
+            },
+            "PlayerId": "jZ/53h5lOIG+dbMjItE9JS1bZBp4JZgoyQap47kcmkw=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 2
+        },
+        {
+            "Name": "Alianei",
+            "Race": "Half Orc",
+            "Guild": "",
+            "Gender": "Female",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Monk",
+                    "Level": 1
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 0,
+            "InParty": 0,
+            "Location": {
+                "Name": "Korthos Village",
+                "Region": "",
+                "IsPublicSpace": 1
+            },
+            "PlayerId": "jZ/53h5lOIG+dbMjItE9Jc0y45XUmibvmdvgB7aDFKw=",
+            "HomeServer": "Argonnessen",
+            "Recruiting": 0,
+            "TotalLevel": 1
+        },
+        {
+            "Name": "Sentinnel",
+            "Race": "Deep Gnome",
+            "Guild": "Metal Gods",
+            "Gender": "Male",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Alchemist",
+                    "Level": 18
+                },
+                {
+                    "Name": "Artificer",
+                    "Level": 1
+                },
+                {
+                    "Name": "Wizard",
+                    "Level": 1
+                },
+                {
+                    "Name": "Epic",
+                    "Level": 6
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 0,
+            "InParty": 0,
+            "Location": {
+                "Name": "The Harbor",
+                "Region": "",
+                "IsPublicSpace": 1
+            },
+            "PlayerId": "C6s9A6kmsljw8P7qCu9S0tOY4OpSDr1av52ADvkdYck=",
+            "HomeServer": "Not Found (18)",
+            "Recruiting": 0,
+            "TotalLevel": 26
+        },
+        {
+            "Name": "Arkista",
+            "Race": "Elf",
+            "Guild": "Guard Duty",
+            "Gender": "Female",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Cleric",
+                    "Level": 12
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 0,
+            "InParty": 0,
+            "Location": {
+                "Name": "The Marketplace",
+                "Region": "",
+                "IsPublicSpace": 1
+            },
+            "PlayerId": "Ipj+v/eAtsJryxPiMgAVHzTQ3CvoftGYpJ1Y1Zu9ZzI=",
+            "HomeServer": "Khyber",
+            "Recruiting": 0,
+            "TotalLevel": 12
+        },
+        {
+            "Name": "Stalkerone-1",
+            "Race": "Tabaxi",
+            "Guild": "Emergence",
+            "Gender": "Male",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Warlock",
+                    "Level": 13
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 796574275125641300,
+            "InParty": 1,
+            "Location": {
+                "Name": "Wachterhaus",
+                "Region": "",
+                "IsPublicSpace": 0
+            },
+            "PlayerId": "/gw6pQOLxwgyEubJIZz9ZIvz4/qz4YfYyO/bh/kequs=",
+            "HomeServer": "Khyber",
+            "Recruiting": 0,
+            "TotalLevel": 13
+        },
+        {
+            "Name": "Pannmn",
+            "Race": "Warforged",
+            "Guild": "Giborim",
+            "Gender": "Male",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Artificer",
+                    "Level": 20
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 0,
+            "InParty": 0,
+            "Location": {
+                "Name": "Lordsmarch Bank",
+                "Region": "Marketplace",
+                "IsPublicSpace": 1
+            },
+            "PlayerId": "LkYrpRxZHTRn8tit2wu3K6Qm5JMTx62HfwMNVvcdxEI=",
+            "HomeServer": "Cannith",
+            "Recruiting": 0,
+            "TotalLevel": 20
+        },
+        {
+            "Name": "Adax-1",
+            "Race": "Human",
+            "Guild": "Bluelight",
+            "Gender": "Male",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Warlock",
+                    "Level": 20
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 0,
+            "InParty": 0,
+            "Location": {
+                "Name": "The Keep on the Borderlands",
+                "Region": "Keep on the Borderlands",
+                "IsPublicSpace": 1
+            },
+            "PlayerId": "lPCIpCFCYhbGeoYSAzd+03a9o0n8uMbDEDmyeVxiUrA=",
+            "HomeServer": "Hardcore",
+            "Recruiting": 0,
+            "TotalLevel": 20
+        },
+        {
+            "Name": "Strimtom",
+            "Race": "Wood Elf",
+            "Guild": "Reaper Casual",
+            "Gender": "Male",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Paladin",
+                    "Level": 14
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 0,
+            "InParty": 0,
+            "Location": {
+                "Name": "Blood on the Vine Tavern",
+                "Region": "",
+                "IsPublicSpace": 1
+            },
+            "PlayerId": "il2EBDttvQDAS92rye+/Y0rBbviLHamH7HJGVN+B6iM=",
+            "HomeServer": "Hardcore",
+            "Recruiting": 0,
+            "TotalLevel": 14
+        },
+        {
+            "Name": "Dhark-1",
+            "Race": "Human",
+            "Guild": "",
+            "Gender": "Female",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Cleric",
+                    "Level": 7
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 0,
+            "InParty": 0,
+            "Location": {
+                "Name": "The Marketplace",
+                "Region": "",
+                "IsPublicSpace": 1
+            },
+            "PlayerId": "o245gE9acFFdgD0fPN8Yni9WyoNsSD4qrBf4rb++wak=",
+            "HomeServer": "Hardcore",
+            "Recruiting": 0,
+            "TotalLevel": 7
+        },
+        {
+            "Name": "Cherriecoke",
+            "Race": "Human",
+            "Guild": "rollin twenties",
+            "Gender": "Female",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Druid",
+                    "Level": 13
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 796574275125641500,
+            "InParty": 1,
+            "Location": {
+                "Name": "The Skyfall Coast",
+                "Region": "Lordsmarch Plaza",
+                "IsPublicSpace": 0
+            },
+            "PlayerId": "vW9qbYrIh8iBiBWPGe/r0E39ow+K4vjxGkeU2kDVOb8=",
+            "HomeServer": "Hardcore",
+            "Recruiting": 0,
+            "TotalLevel": 13
+        },
+        {
+            "Name": "Relius-1",
+            "Race": "Tiefling",
+            "Guild": "",
+            "Gender": "Male",
+            "Server": "Argonnessen",
+            "Classes": [
+                {
+                    "Name": "Warlock",
+                    "Level": 20
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                },
+                {
+                    "Name": null,
+                    "Level": null
+                }
+            ],
+            "GroupId": 0,
+            "InParty": 0,
+            "Location": {
+                "Name": "The Borderlands",
+                "Region": "",
+                "IsPublicSpace": 0
+            },
+            "PlayerId": "QxxO/YfmN9vkVnQULbyy5hZeuTfy4gisugjCHdMgQio=",
+            "HomeServer": "Hardcore",
+            "Recruiting": 0,
+            "TotalLevel": 20
+        }
+    ],
+    "Population": 123
+}

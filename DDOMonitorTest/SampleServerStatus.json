@@ -1,0 +1,59 @@
+{
+    "LastUpdateTime": "2023-07-26T13:08:31.985Z",
+    "Worlds": [
+        {
+            "Name": "Argonnessen",
+            "StatusServerUrl": "http://gls.ddo.com/GLS.DataCenterServer/StatusServer.aspx?s=10.192.145.11",
+            "Order": 1,
+            "Status": 0
+        },
+        {
+            "Name": "Cannith",
+            "StatusServerUrl": "http://gls.ddo.com/GLS.DataCenterServer/StatusServer.aspx?s=10.192.145.17",
+            "Order": 2,
+            "Status": 0
+        },
+        {
+            "Name": "Ghallanda",
+            "StatusServerUrl": "http://gls.ddo.com/GLS.DataCenterServer/StatusServer.aspx?s=10.192.145.23",
+            "Order": 0,
+            "Status": 0
+        },
+        {
+            "Name": "Hardcore",
+            "StatusServerUrl": "http://gls.ddo.com/GLS.DataCenterServer/StatusServer.aspx?s=10.192.145.80",
+            "Order": 3,
+            "Status": 0
+        },
+        {
+            "Name": "Khyber",
+            "StatusServerUrl": "http://gls.ddo.com/GLS.DataCenterServer/StatusServer.aspx?s=10.192.145.29",
+            "Order": 4,
+            "Status": 0
+        },
+        {
+            "Name": "Orien",
+            "StatusServerUrl": "http://gls.ddo.com/GLS.DataCenterServer/StatusServer.aspx?s=10.192.145.35",
+            "Order": 5,
+            "Status": 0
+        },
+        {
+            "Name": "Sarlona",
+            "StatusServerUrl": "http://gls.ddo.com/GLS.DataCenterServer/StatusServer.aspx?s=10.192.145.41",
+            "Order": 6,
+            "Status": 0
+        },
+        {
+            "Name": "Thelanis",
+            "StatusServerUrl": "http://gls.ddo.com/GLS.DataCenterServer/StatusServer.aspx?s=10.192.145.47",
+            "Order": 7,
+            "Status": 0
+        },
+        {
+            "Name": "Wayfinder",
+            "StatusServerUrl": "http://gls.ddo.com/GLS.DataCenterServer/StatusServer.aspx?s=10.192.145.53",
+            "Order": 8,
+            "Status": 0
+        }
+    ]
+}
